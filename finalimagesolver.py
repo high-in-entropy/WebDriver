@@ -2,7 +2,7 @@
 """
 Created on Tue Dec 10 14:22:36 2019
 
-@author: Viraj Mohile, NIT Surat, for ISB Hyderabad.
+@author: Viraj Mohile, NIT Surat
 """
 
 from PIL import Image
